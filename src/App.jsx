@@ -1,9 +1,7 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+/*import { useState } from 'react'*/
 
-function App() {
+
+/*function App() {
   const [count, setCount] = useState(0)
 
   return (
@@ -32,4 +30,34 @@ function App() {
   )
 }
 
-export default App
+export default App*/
+import './App.css';
+import reactLogo from './assets/react.svg';
+import viteLogo from '/vite.svg';
+import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Updated imports
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import Login from './pages/Login';
+
+function App() {
+  const [pic, setPic] = useState("");
+
+  return (
+    <Router>
+      <div className="App">
+        <Navbar />
+        <Routes> 
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/login" element={<Login />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+}
+
+export default App;

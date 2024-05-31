@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+/*import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Navbar from '.src/components/Navbar'; 
 import Home from './pages/Home';         
@@ -36,4 +36,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
