@@ -28,7 +28,7 @@
 .full-width-table {
   width: 100%;
 }
-.products{
+#products{
   border: 3px solid black;
   padding: 15px;
   margin: 20px;
@@ -37,7 +37,7 @@
 .nav-item{
   padding: 10px;
 }
-input{
+#search{
   margin-left: 1000px;
   margin-top: 30px;
 }
@@ -53,3 +53,13 @@ body{
 header{
   border-bottom: #006400 3px solid;
 }
+.item-table {
+  border-collapse: separate; /* Use separate border model */
+  border-spacing: 20px; /* Set the spacing between cells */
+}
+
+.item-table td {
+  border: 1px solid #ccc; /* Add border to cells */
+  padding: 10px; /* Add padding to cells */
+}
+

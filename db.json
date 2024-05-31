@@ -1,5 +1,5 @@
 {
-    "products": {
+
       "smartphones": [
         {
           "name": "iPhone 13 Pro",
@@ -52,6 +52,7 @@
           "description": "A budget-friendly smartphone with a high-resolution display, versatile camera setup, and large battery."
         }
       ],
+
       "laptops": [
         {
           "name": "MacBook Pro 16-inch",
@@ -104,6 +105,7 @@
           "description": "A convertible laptop with a vibrant AMOLED display, long battery life, and 5G connectivity."
         }
       ],
+    
       "tvs": [
         {
           "name": "Sony Bravia X900H",
@@ -206,4 +208,4 @@
             }
           ]
     }
-    }}
+    }
