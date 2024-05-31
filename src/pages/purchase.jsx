@@ -10,13 +10,13 @@ const Purchase = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log('Phone number submitted:', phoneNumber);
+    setPhoneNumber('')
   };
 
   return (
-    <div>
-      <h1>Purchase Page</h1>
-      <form onSubmit={handleSubmit}>
-        <div>
+    <div className="purchase-container">
+      <form onSubmit={handleSubmit} className="purchase-form">
+        <div className="form-group">
           <label htmlFor="phone">Phone Number:</label>
           <input
             type="tel"
@@ -26,9 +26,12 @@ const Purchase = () => {
             onChange={handlePhoneNumberChange}
             placeholder="Enter your phone number"
             required
+            className="form-control"
           />
         </div>
-        <button type="submit">Submit</button>
+        <button type="submit" className="btn btn-primary">
+          Submit
+        </button>
       </form>
     </div>
   );

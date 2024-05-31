@@ -6,16 +6,16 @@ const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle login logic here
     console.log('Username:', username);
     console.log('Password:', password);
-    // You can add your authentication logic here
+    setUsername('');
+    setPassword('');
   };
 
   return (
-    <div className="container mt-5">
+    <div className="login-container">
       <h1>Login</h1>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="login-form">
         <div className="form-group">
           <label htmlFor="username">Username</label>
           <input

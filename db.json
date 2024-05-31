@@ -1,211 +1,211 @@
 {
 
-      "smartphones": [
-        {
-          "name": "iPhone 13 Pro",
-          "price": 999.00,
-          "description": "The latest flagship smartphone from Apple with advanced features and powerful performance."
-        },
-        {
-          "name": "Samsung Galaxy S21 Ultra",
-          "price": 1199.99,
-          "description": "A premium Android smartphone with a stunning display, versatile camera system, and 5G capability."
-        },
-        {
-          "name": "Google Pixel 6 Pro",
-          "price": 899.00,
-          "description": "Google's flagship smartphone featuring an impressive camera setup, sleek design, and intuitive software."
-        },
-        {
-          "name": "OnePlus 9 Pro",
-          "price": 969.00,
-          "description": "A high-performance Android smartphone with a smooth 120Hz display, fast charging, and excellent build quality."
-        },
-        {
-          "name": "Xiaomi Mi 11 Ultra",
-          "price": 1099.00,
-          "description": "A feature-packed Android smartphone with a powerful camera system, large AMOLED display, and long-lasting battery."
-        },
-        {
-          "name": "iPhone 12",
-          "price": 799.00,
-          "description": "Apple's previous flagship smartphone known for its performance and camera capabilities."
-        },
-        {
-          "name": "Samsung Galaxy Note 20 Ultra",
-          "price": 1299.99,
-          "description": "A premium smartphone with a large display, S Pen support, and powerful performance."
-        },
-        {
-          "name": "Google Pixel 5",
-          "price": 699.00,
-          "description": "A compact and affordable Android smartphone with a great camera and clean software experience."
-        },
-        {
-          "name": "OnePlus Nord 2",
-          "price": 399.00,
-          "description": "A mid-range Android smartphone offering good performance, 5G connectivity, and fast charging."
-        },
-        {
-          "name": "Xiaomi Redmi Note 10 Pro",
-          "price": 279.00,
-          "description": "A budget-friendly smartphone with a high-resolution display, versatile camera setup, and large battery."
-        }
-      ],
-
-      "laptops": [
-        {
-          "name": "MacBook Pro 16-inch",
-          "price": 2399.00,
-          "description": "Apple's premium laptop with a stunning Retina display, powerful performance, and sleek design."
-        },
-        {
-          "name": "Dell XPS 15",
-          "price": 1899.99,
-          "description": "A high-end Windows laptop known for its beautiful InfinityEdge display, solid build quality, and performance."
-        },
-        {
-          "name": "Lenovo ThinkPad X1 Carbon",
-          "price": 1399.00,
-          "description": "A business-class laptop with a durable design, excellent keyboard, and long battery life."
-        },
-        {
-          "name": "HP Spectre x360",
-          "price": 1299.00,
-          "description": "A premium convertible laptop featuring a sleek design, vibrant display, and solid performance."
-        },
-        {
-          "name": "Asus ROG Zephyrus G14",
-          "price": 1499.00,
-          "description": "A powerful gaming laptop with a compact design, excellent battery life, and high-refresh-rate display."
-        },
-        {
-          "name": "Microsoft Surface Laptop 4",
-          "price": 1299.00,
-          "description": "A stylish and lightweight laptop with a touchscreen display, comfortable keyboard, and good performance."
-        },
-        {
-          "name": "Acer Swift 3",
-          "price": 699.00,
-          "description": "A budget-friendly ultrabook with a slim and lightweight design, decent performance, and long battery life."
-        },
-        {
-          "name": "Razer Blade 15",
-          "price": 1999.99,
-          "description": "A premium gaming laptop known for its sleek design, powerful hardware, and customizable RGB lighting."
-        },
-        {
-          "name": "LG Gram 17",
-          "price": 1699.99,
-          "description": "An ultralight laptop with a large display, long battery life, and durable build."
-        },
-        {
-          "name": "Samsung Galaxy Book Pro 360",
-          "price": 1299.99,
-          "description": "A convertible laptop with a vibrant AMOLED display, long battery life, and 5G connectivity."
-        }
-      ],
-    
-      "tvs": [
-        {
-          "name": "Sony Bravia X900H",
-          "price": 1399.99,
-          "description": "A high-quality 4K HDR TV with excellent picture quality, smooth motion handling, and a variety of smart features."
-        },
-        {
-          "name": "Samsung QLED Q80T",
-          "price": 1699.00,
-          "description": "A QLED TV with impressive picture quality, deep blacks, and excellent gaming features such as low input lag."
-        },
-        {
-          "name": "LG CX OLED",
-          "price": 1999.99,
-          "description": "An OLED TV known for its perfect black levels, wide viewing angles, and stunning picture quality for both movies and gaming."
-        },
-        {
-          "name": "TCL 6-Series",
-          "price": 799.99,
-          "description": "An affordable 4K HDR TV with good picture quality, Roku smart platform, and low input lag for gaming."
-        },
-        {
-          "name": "Hisense H8G",
-          "price": 649.00,
-          "description": "A budget-friendly 4K TV with decent picture quality, Dolby Vision HDR support, and Android TV platform."
-        },
-        {
-          "name": "Vizio P-Series Quantum",
-          "price": 1099.99,
-          "description": "A value-oriented 4K TV with quantum dot technology, excellent color accuracy, and good HDR performance."
-        },
-        {
-          "name": "Sony A8H OLED",
-          "price": 2499.00,
-          "description": "A premium OLED TV with stunning picture quality, Acoustic Surface Audio, and Android TV for smart features."
-        },
-        {
-          "name": "Samsung The Frame",
-          "price": 1799.00,
-          "description": "A lifestyle-oriented 4K TV designed to resemble a piece of artwork, with customizable bezels and a variety of artwork options."
-        },
-        {
-          "name": "LG NanoCell 85 Series",
-          "price": 999.99,
-          "description": "A mid-range 4K TV with NanoCell technology"
-        }
+    "smartphones": [
+      {
+        "name": "iPhone 13 Pro",
+        "price": 999.00,
+        "description": "The latest flagship smartphone from Apple with advanced features and powerful performance."
+      },
+      {
+        "name": "Samsung Galaxy S21 Ultra",
+        "price": 1199.99,
+        "description": "A premium Android smartphone with a stunning display, versatile camera system, and 5G capability."
+      },
+      {
+        "name": "Google Pixel 6 Pro",
+        "price": 899.00,
+        "description": "Google's flagship smartphone featuring an impressive camera setup, sleek design, and intuitive software."
+      },
+      {
+        "name": "OnePlus 9 Pro",
+        "price": 969.00,
+        "description": "A high-performance Android smartphone with a smooth 120Hz display, fast charging, and excellent build quality."
+      },
+      {
+        "name": "Xiaomi Mi 11 Ultra",
+        "price": 1099.00,
+        "description": "A feature-packed Android smartphone with a powerful camera system, large AMOLED display, and long-lasting battery."
+      },
+      {
+        "name": "iPhone 12",
+        "price": 799.00,
+        "description": "Apple's previous flagship smartphone known for its performance and camera capabilities."
+      },
+      {
+        "name": "Samsung Galaxy Note 20 Ultra",
+        "price": 1299.99,
+        "description": "A premium smartphone with a large display, S Pen support, and powerful performance."
+      },
+      {
+        "name": "Google Pixel 5",
+        "price": 699.00,
+        "description": "A compact and affordable Android smartphone with a great camera and clean software experience."
+      },
+      {
+        "name": "OnePlus Nord 2",
+        "price": 399.00,
+        "description": "A mid-range Android smartphone offering good performance, 5G connectivity, and fast charging."
+      },
+      {
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "price": 279.00,
+        "description": "A budget-friendly smartphone with a high-resolution display, versatile camera setup, and large battery."
+      }
     ],
 
-    "accounts":{
-        "users": [
-            {
-              "username": "john_doe",
-              "password": "password123",
-              "phone": "555-1234"
-            },
-            {
-              "username": "jane_smith",
-              "password": "mysecurepassword",
-              "phone": "555-5678"
-            },
-            {
-              "username": "michael_jones",
-              "password": "letmein",
-              "phone": "555-8765"
-            },
-            {
-              "username": "susan_lee",
-              "password": "qwertyuiop",
-              "phone": "555-4321"
-            },
-            {
-              "username": "david_clark",
-              "password": "admin1234",
-              "phone": "555-8765"
-            },
-            {
-              "username": "linda_martin",
-              "password": "mypassword",
-              "phone": "555-5678"
-            },
-            {
-              "username": "robert_king",
-              "password": "password1",
-              "phone": "555-3456"
-            },
-            {
-              "username": "emily_turner",
-              "password": "letmein123",
-              "phone": "555-2345"
-            },
-            {
-              "username": "james_wilson",
-              "password": "securepassword",
-              "phone": "555-6543"
-            },
-            {
-              "username": "sarah_davis",
-              "password": "mypassword123",
-              "phone": "555-7890"
-            }
-          ]
-    }
-    }
+    "laptops": [
+      {
+        "name": "MacBook Pro 16-inch",
+        "price": 2399.00,
+        "description": "Apple's premium laptop with a stunning Retina display, powerful performance, and sleek design."
+      },
+      {
+        "name": "Dell XPS 15",
+        "price": 1899.99,
+        "description": "A high-end Windows laptop known for its beautiful InfinityEdge display, solid build quality, and performance."
+      },
+      {
+        "name": "Lenovo ThinkPad X1 Carbon",
+        "price": 1399.00,
+        "description": "A business-class laptop with a durable design, excellent keyboard, and long battery life."
+      },
+      {
+        "name": "HP Spectre x360",
+        "price": 1299.00,
+        "description": "A premium convertible laptop featuring a sleek design, vibrant display, and solid performance."
+      },
+      {
+        "name": "Asus ROG Zephyrus G14",
+        "price": 1499.00,
+        "description": "A powerful gaming laptop with a compact design, excellent battery life, and high-refresh-rate display."
+      },
+      {
+        "name": "Microsoft Surface Laptop 4",
+        "price": 1299.00,
+        "description": "A stylish and lightweight laptop with a touchscreen display, comfortable keyboard, and good performance."
+      },
+      {
+        "name": "Acer Swift 3",
+        "price": 699.00,
+        "description": "A budget-friendly ultrabook with a slim and lightweight design, decent performance, and long battery life."
+      },
+      {
+        "name": "Razer Blade 15",
+        "price": 1999.99,
+        "description": "A premium gaming laptop known for its sleek design, powerful hardware, and customizable RGB lighting."
+      },
+      {
+        "name": "LG Gram 17",
+        "price": 1699.99,
+        "description": "An ultralight laptop with a large display, long battery life, and durable build."
+      },
+      {
+        "name": "Samsung Galaxy Book Pro 360",
+        "price": 1299.99,
+        "description": "A convertible laptop with a vibrant AMOLED display, long battery life, and 5G connectivity."
+      }
+    ],
+  
+    "tvs": [
+      {
+        "name": "Sony Bravia X900H",
+        "price": 1399.99,
+        "description": "A high-quality 4K HDR TV with excellent picture quality, smooth motion handling, and a variety of smart features."
+      },
+      {
+        "name": "Samsung QLED Q80T",
+        "price": 1699.00,
+        "description": "A QLED TV with impressive picture quality, deep blacks, and excellent gaming features such as low input lag."
+      },
+      {
+        "name": "LG CX OLED",
+        "price": 1999.99,
+        "description": "An OLED TV known for its perfect black levels, wide viewing angles, and stunning picture quality for both movies and gaming."
+      },
+      {
+        "name": "TCL 6-Series",
+        "price": 799.99,
+        "description": "An affordable 4K HDR TV with good picture quality, Roku smart platform, and low input lag for gaming."
+      },
+      {
+        "name": "Hisense H8G",
+        "price": 649.00,
+        "description": "A budget-friendly 4K TV with decent picture quality, Dolby Vision HDR support, and Android TV platform."
+      },
+      {
+        "name": "Vizio P-Series Quantum",
+        "price": 1099.99,
+        "description": "A value-oriented 4K TV with quantum dot technology, excellent color accuracy, and good HDR performance."
+      },
+      {
+        "name": "Sony A8H OLED",
+        "price": 2499.00,
+        "description": "A premium OLED TV with stunning picture quality, Acoustic Surface Audio, and Android TV for smart features."
+      },
+      {
+        "name": "Samsung The Frame",
+        "price": 1799.00,
+        "description": "A lifestyle-oriented 4K TV designed to resemble a piece of artwork, with customizable bezels and a variety of artwork options."
+      },
+      {
+        "name": "LG NanoCell 85 Series",
+        "price": 999.99,
+        "description": "A mid-range 4K TV with NanoCell technology"
+      }
+  ],
+
+  "accounts":{
+      "users": [
+          {
+            "username": "john_doe",
+            "password": "password123",
+            "phone": "555-1234"
+          },
+          {
+            "username": "jane_smith",
+            "password": "mysecurepassword",
+            "phone": "555-5678"
+          },
+          {
+            "username": "michael_jones",
+            "password": "letmein",
+            "phone": "555-8765"
+          },
+          {
+            "username": "susan_lee",
+            "password": "qwertyuiop",
+            "phone": "555-4321"
+          },
+          {
+            "username": "david_clark",
+            "password": "admin1234",
+            "phone": "555-8765"
+          },
+          {
+            "username": "linda_martin",
+            "password": "mypassword",
+            "phone": "555-5678"
+          },
+          {
+            "username": "robert_king",
+            "password": "password1",
+            "phone": "555-3456"
+          },
+          {
+            "username": "emily_turner",
+            "password": "letmein123",
+            "phone": "555-2345"
+          },
+          {
+            "username": "james_wilson",
+            "password": "securepassword",
+            "phone": "555-6543"
+          },
+          {
+            "username": "sarah_davis",
+            "password": "mypassword123",
+            "phone": "555-7890"
+          }
+        ]
+  }
+  }
